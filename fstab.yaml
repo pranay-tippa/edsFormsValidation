@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: https://13.205.173.197:4502/bin/franklin.delivery/pranay-tippa/edsFormsValidation/main
+    type: "markup"
+    suffix: ".html"
